@@ -30,8 +30,6 @@
 <img alt ="WSL"src="https://img.shields.io/badge/-WSL-orange?style=flat&logoColor=black">
 <img alt ="VsCode"src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=black">
 
-<br />
-<br />
 
 ---
 
@@ -45,8 +43,6 @@
 <img alt ="Electron"src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=ffffff">
 <img alt ="Express.js"src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white">
 
-<br />
-<br />
 
 ---
 
