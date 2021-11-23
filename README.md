@@ -15,7 +15,10 @@
 
 ### Languages and Tools:
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=black"> <img alt ="HTML5"src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img alt ="CSS3"src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=black">
+<img alt ="HTML5"src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img alt ="CSS3"src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img alt ="JavaScript"src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <img alt ="Ocaml"src="https://img.shields.io/badge/-Ocaml-EC6813?style=flat&logo=ocaml&logoColor=white">
 <img alt ="Java"src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=red">
@@ -27,6 +30,7 @@
 <img alt ="Linux"src="https://img.shields.io/badge/-Linux-E95420?style=flat&logo=ubuntu&logoColor=black">
 <img alt ="WSL"src="https://img.shields.io/badge/-WSL-orange?style=flat&logoColor=black">
 <img alt ="VsCode"src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=black">
+</p>
 
 
 ---
