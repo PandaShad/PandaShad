@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=3776AB"><img alt ="HTML5"src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=3776AB"> <img alt ="HTML5"src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img alt ="CSS3"src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img alt ="JavaScript"src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff">
 <img alt ="Ocaml"src="https://img.shields.io/badge/-Ocaml-339933?style=flat&logo=ocaml&logoColor=orange">
