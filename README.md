@@ -1,3 +1,5 @@
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=pandashad&repo=pandashad&theme=aura))](https://github.com/pandashad/pandashad)
+
 ### Hello, I'm Maxime - aka LilShad 👋
 
 ## I'm a Student, Gamer, and Developer!!
@@ -47,6 +49,10 @@
 <img alt ="Express.js"src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white">
 </p>
 
+
+---
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandashad&layout=compact&theme=aura)
 
 ---
 
