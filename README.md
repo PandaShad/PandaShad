@@ -37,6 +37,7 @@
 
 ### Actualy learning/improving:
 
+<p>
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3776AB"> 
 <img alt ="TailwindCSS"src ="https://img.shields.io/badge/-TailWindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"> 
 <img alt ="Angular"src ="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">
@@ -44,6 +45,7 @@
 <img alt ="Django"src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
 <img alt ="Electron"src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=ffffff">
 <img alt ="Express.js"src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white">
+</p>
 
 
 ---
