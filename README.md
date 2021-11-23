@@ -15,12 +15,12 @@
 
 ### Languages and Tools:
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=3776AB">
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=black">
 <img alt ="HTML5"src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img alt ="CSS3"src ="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img alt ="JavaScript"src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff">
+<img alt ="JavaScript"src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <img alt ="Ocaml"src="https://img.shields.io/badge/-Ocaml-EC6813?style=flat&logo=ocaml&logoColor=white">
-<img alt ="Java"src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff">
+<img alt ="Java"src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=red">
 <img alt ="C#"src="https://img.shields.io/badge/-C%23-239120?logo=c+sharp&logoColor=white">
 <img alt ="C"src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff">
 <img alt ="drRacket"src="https://img.shields.io/badge/-Racket-9F1D20?style=flat&logo=racket&logoColor=ffffff">
@@ -29,6 +29,8 @@
 <img alt ="Linux"src="https://img.shields.io/badge/-Linux-E95420?style=flat&logo=ubuntu&logoColor=black">
 <img alt ="WSL"src="https://img.shields.io/badge/-WSL-orange?style=flat&logoColor=black">
 <img alt ="VsCode"src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=black">
+<img src="https://img.shields.io/badge/-Java-FFA611?style=flat&logo=java&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Racket-blue?style=flat&logo=racket&logoColor=ffffff">
 
 
 ---
