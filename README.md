@@ -52,7 +52,7 @@
 
 ---
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaShad&theme=aura)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaShad&layout=compact&theme=aura)
 
 ---
 
