@@ -1,6 +1,5 @@
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=pandashad&repo=pandashad&theme=aura))](https://github.com/pandashad/pandashad)
-[![Ocaml Project - ParcourSup](https://github-readme-stats.vercel.app/api/pin/?username=pandashad&repo=Projet-PF-Ocaml&theme=aura))](https://github.com/PandaShad/Projet-PF-Ocaml)
-[![React Crypto DashBoard and Tracker](https://github-readme-stats.vercel.app/api/pin/?username=pandashad&repo=Crypto-Converter-And-Tracker&theme=aura))](https://github.com/PandaShad/Crypto-Converter-And-Tracker/)
+[![Ocaml Project - ParcourSup](https://github-readme-stats.vercel.app/api/pin/?username=pandashad&repo=Projet-PF-Ocaml&theme=aura)](https://github.com/PandaShad/Projet-PF-Ocaml)
+[![React Crypto DashBoard and Tracker](https://github-readme-stats.vercel.app/api/pin/?username=pandashad&repo=Crypto-Converter-And-Tracker&theme=aura)](https://github.com/PandaShad/Crypto-Converter-And-Tracker/)
 
 
 ### Hello, I'm Maxime - aka LilShad 👋
