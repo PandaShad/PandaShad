@@ -58,5 +58,9 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=PandaShad)
+
+---
+
 [twitter]: https://twitter.com/_LilShad
 [youtube]: https://www.youtube.com/channel/UCASrPHltoBX81SZhlCY2jTg
