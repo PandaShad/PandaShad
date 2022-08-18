@@ -58,7 +58,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=PandaShad)
+![](https://komarev.com/ghpvc/?username=PandaShad&color=blueviolet)
 
 ---
 
