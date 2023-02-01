@@ -7,8 +7,8 @@
 ## I'm a Student, Gamer, and Developer!!
 
 - 🔭 I'm a student in computer sciences 
-- 🌱 I’m currently worcking with Ocaml and JAVA
-- 🥅 2022 Goals: Ship an electron app and a website on MERN techStack (Maybe MYSQL tho)
+- 🌱 I’m currently working with TypeScript(Angular/NestJS), JAVA and a bit of Rust
+- 🥅 2023 Goals: Ship an electron app and a website on MERN techStack (Maybe MYSQL tho)
 
 ### Connect with me:
 
